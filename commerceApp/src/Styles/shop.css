@@ -1,0 +1,22 @@
+.filter_widget select{
+    padding: 8px 20px;
+    border: 1px solid rgba(17, 17, 17, 0.826);
+    cursor: pointer;
+    border-radius: 5px;
+    background: rgb(91, 25, 233);
+    color:#fff;
+}
+.filter_widget select option{
+    font: 25px;
+}
+@media only screen and (max-width: 768px) {
+   .tag{
+   margin: 10px;
+   margin-left: 70px;
+   }
+.lef{
+    padding-left: 20px;
+}
+
+    
+ }

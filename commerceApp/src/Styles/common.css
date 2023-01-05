@@ -1,0 +1,17 @@
+.Common-Section{
+    box-sizing: border-box;
+    background-image: url(../../src/assets/images/pexels-jean-van-der-meulen-1457842.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    display:flex;
+    align-items: center;
+    margin-bottom: 0px;
+    
+}
+.Common-Section h1{
+    font-weight:600;
+    font-size:36px;
+z-index:100;
+
+}

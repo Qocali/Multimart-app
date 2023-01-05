@@ -1,0 +1,30 @@
+.form_group input{
+    padding: 10px;
+    width:40vw;
+    border:1px solid rgba(18, 1, 1, 0.921);
+    border-radius: 10px;
+}
+.bill_checkout{
+    margin: 30px 0;
+    padding: 20px;
+    background-color: rgb(5, 5, 160);
+    border-radius: 5px;
+    color:white;
+}
+.bill_checkout h2,h1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.bill_checkout h1{
+    border-top: 1px solid rgba(0, 0, 0, 0.908);
+    padding: 10px;
+    margin-top: 5px;
+}
+.buy_btn{
+    background-color: rgba(240, 248, 255, 0.905);
+    color: black;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 5px 3px 3px white;
+}
